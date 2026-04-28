@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-das-02121996)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:das.sour@northeastern.edu)
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.derm-platform.me)
+[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sourav-02121996.github.io/Project1_Personal_Page/)
 [![GCP Architect](https://img.shields.io/badge/GCP%20Pro%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification)
 
 </div>
@@ -22,7 +22,7 @@ I bridge two worlds: **enterprise backend engineering** (SAP ABAP, S/4HANA, ETL 
 - 🏢 Built & maintained enterprise SAP ecosystems processing millions of records daily at Accenture
 - 🔬 Researching multimodal clinical AI for skin cancer diagnosis at Northeastern
 - 🤖 Exploring SAP Joule (SAP's generative AI copilot) for intelligent ERP automation
-- 📍 Boston, MA — open to full-time SWE / MLE / SAP roles
+- 📍 Boston, MA
 
 ---
 
