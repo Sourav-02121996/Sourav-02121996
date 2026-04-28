@@ -1,13 +1,23 @@
 <div align="center">
 
-# Sourav Das
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sourav%20Das&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20SAP%20Developer%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18" />
 
-### ML Engineer · Computer Vision · SAP Developer · Full-Stack
+<br/>
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+that+ships+to+production+%F0%9F%9A%80;3%2B+years+SAP+%7C+ABAP+%7C+S%2F4HANA+%7C+Fiori;Computer+Vision+%C2%B7+NLP+%C2%B7+Semantic+Search;MS+CS+%40+Northeastern+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-das-02121996)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:das.sour@northeastern.edu)
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sourav-02121996.github.io/Project1_Personal_Page/)
 [![GCP Architect](https://img.shields.io/badge/GCP%20Pro%20Cloud%20Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/certification)
+
+<br/>
+
+<!-- Fun skill avatars row -->
+<img src="https://skillicons.dev/icons?i=pytorch,python,react,nodejs,docker,kubernetes,gcp,aws&perline=8" />
 
 </div>
 
@@ -200,21 +210,14 @@ Delivered enterprise SAP solutions across **SAP ECC**, **S/4HANA**, **SAP HANA**
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourav-02121996&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-02121996&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *3+ years of enterprise engineering · MS Computer Science @ Northeastern · Google Cloud Certified*
 
 **Open to full-time roles in ML Engineering, Software Engineering, and SAP Development.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
