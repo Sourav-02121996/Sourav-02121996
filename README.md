@@ -15,7 +15,7 @@
 
 ## About Me
 
-MS Computer Science student at **Northeastern University** (GPA 3.58) with **3+ years of industry experience** at Accenture as an Application Development Analyst — building enterprise SAP systems and ML-powered applications that operate at scale.
+MS Computer Science student at **Northeastern University** with **3+ years of industry experience** at Accenture as an Application Development Analyst — building enterprise SAP systems and ML-powered applications that operate at scale.
 
 I bridge two worlds: **enterprise backend engineering** (SAP ABAP, S/4HANA, ETL pipelines, REST APIs) and **applied machine learning** (computer vision, NLP, semantic retrieval). I don't just train models — I ship full production systems end to end.
 
